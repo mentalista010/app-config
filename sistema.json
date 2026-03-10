@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Em Manutenção",
     "message": "Voltamos em breve",
     "estimated_time": "10 minutos"
