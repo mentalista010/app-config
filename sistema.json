@@ -1,8 +1,8 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Em Manutenção",
-    "message": "Voltamos em breve.",
+    "message": "Voltamos em breve",
     "estimated_time": "30 minutos"
   },
   "update": {
