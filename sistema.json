@@ -1,21 +1,145 @@
 {
-  "maintenance": {
-    "enabled": false,
-    "title": "Em Manutenção",
-    "message": "Voltamos em breve",
-    "estimated_time": "10 minutos"
-  },
-  "update": {
-    "available": false,
-    "version": "1.0.0",
-    "title": "Nova versão disponível",
-    "message": "Atualize para continuar usando.",
-    "features": [],
-    "force_update": false,
-    "download_url": ""
-  },
-  "app_info": {
-    "current_version": "1.0.0",
-    "min_supported_version": "1.0.0"
+  "apostilas": {
+    "6ano": {
+      "title": "6º Ano",
+      "totalApostilas": 2,
+      "volumes": {
+        "volume1": {
+          "title": "Volume 1",
+          "books": [
+            {
+              "title": "Língua Portuguesa e Matemática",
+              "url": "https://r2.cupiditys.lol/v1-6ano-lingua-portuguesa-matematica.pdf"
+            },
+            {
+              "title": "Ciências, História, Geografia, Língua Inglesa e Projeto de Vida",
+              "url": "https://r2.cupiditys.lol/v1-6ano-ciencias-historia-geografia-lingua-inglesa-projeto-de-vida.pdf"
+            }
+          ]
+        }
+      }
+    },
+    "7ano": {
+      "title": "7º Ano",
+      "totalApostilas": 2,
+      "volumes": {
+        "volume1": {
+          "title": "Volume 1",
+          "books": [
+            {
+              "title": "Língua Portuguesa e Matemática",
+              "url": "https://r2.cupiditys.lol/v1-7ano-lingua-portuguesa-matematica.pdf"
+            },
+            {
+              "title": "Ciências, História, Geografia, Língua Inglesa e Projeto de Vida",
+              "url": "https://r2.cupiditys.lol/v1-7ano-ciencias-historia-geografia-lingua-inglesa-projeto-de-vida.pdf"
+            }
+          ]
+        }
+      }
+    },
+    "8ano": {
+      "title": "8º Ano",
+      "totalApostilas": 2,
+      "volumes": {
+        "volume1": {
+          "title": "Volume 1",
+          "books": [
+            {
+              "title": "Língua Portuguesa e Matemática",
+              "url": "https://r2.cupiditys.lol/v1-8ano-lingua-portuguesa-matematica.pdf"
+            },
+            {
+              "title": "Ciências, História, Geografia, Língua Inglesa e Projeto de Vida",
+              "url": "https://r2.cupiditys.lol/v1-8ano-ciencias-historia-geografia-lingua-inglesa-projeto-de-vida.pdf"
+            }
+          ]
+        }
+      }
+    },
+    "9ano": {
+      "title": "9º Ano",
+      "totalApostilas": 2,
+      "volumes": {
+        "volume1": {
+          "title": "Volume 1",
+          "books": [
+            {
+              "title": "Língua Portuguesa e Matemática",
+              "url": "https://r2.cupiditys.lol/v1-9ano-lingua-portuguesa-matematica.pdf"
+            },
+            {
+              "title": "Ciências, História, Geografia, Língua Inglesa e Projeto de Vida",
+              "url": "https://r2.cupiditys.lol/v1-9ano-ciencias-historia-geografia-lingua-inglesa-projeto-de-vida.pdf"
+            }
+          ]
+        }
+      }
+    },
+    "1ano": {
+      "title": "1º Ano",
+      "totalApostilas": 3,
+      "volumes": {
+        "volume1": {
+          "title": "Volume 1",
+          "books": [
+            {
+              "title": "História, Geografia e Língua Inglesa",
+              "url": "https://r2.cupiditys.lol/v1-1ano-historia-geografia-lingua-inglesa.pdf"
+            },
+            {
+              "title": "Língua Portuguesa e Matemática",
+              "url": "https://r2.cupiditys.lol/v1-1ano-lingua-portuguesa-matematica.pdf"
+            },
+            {
+              "title": "Biologia, Física e Química",
+              "url": "https://r2.cupiditys.lol/v1-1ano-biologia-fisica-quimica.pdf"
+            }
+          ]
+        }
+      }
+    },
+    "2ano": {
+      "title": "2º Ano",
+      "totalApostilas": 3,
+      "volumes": {
+        "volume1": {
+          "title": "Volume 1",
+          "books": [
+            {
+              "title": "História, Geografia e Língua Inglesa",
+              "url": "https://r2.cupiditys.lol/v1-2ano-historia-geografia-lingua-inglesa.pdf"
+            },
+            {
+              "title": "Língua Portuguesa e Matemática",
+              "url": "https://r2.cupiditys.lol/v1-2ano-lingua-portuguesa-matematica.pdf"
+            },
+            {
+              "title": "Biologia, Física e Química",
+              "url": "https://r2.cupiditys.lol/v1-2ano-biologia-fisica-quimica.pdf"
+            }
+          ]
+        }
+      }
+    },
+    "3ano": {
+      "title": "3º Ano",
+      "totalApostilas": 2,
+      "volumes": {
+        "volume1": {
+          "title": "Volume 1",
+          "books": [
+            {
+              "title": "História, Física e Língua Inglesa",
+              "url": "https://r2.cupiditys.lol/v1-3ano-historia-geografia-lingua-inglesa.pdf"
+            },
+            {
+              "title": "Língua Portuguesa e Matemática",
+              "url": "https://r2.cupiditys.lol/v1-3ano-lingua-portuguesa-matematica.pdf"
+            }
+          ]
+        }
+      }
+    }
   }
 }
